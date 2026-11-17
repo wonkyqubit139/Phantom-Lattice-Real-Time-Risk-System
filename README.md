@@ -14,10 +14,7 @@ Two linked quantitative problems from the JPMorgan Chase QMP 2026 case study, so
 
 ## Background
 
-Both problems come from the JPMorgan Chase Quant Mentorship Programme (QMP) 2026 case study, which was set as a
-team exercise. This repository started from Team 6's submission
-([stack-sapphire/JPMC_QMP_Case-study_group6](https://github.com/stack-sapphire/JPMC_QMP_Case-study_group6));
-the code, answers and results here are my own work on both problem statements.
+Both problems come from the JPMorgan Chase Quant Mentorship Programme (QMP) 2026 case study, for which the code, answers and results here are my independent attempt on both problem statements.
 
 ---
 
